@@ -332,3 +332,6 @@ defaults:
 nav:
   - title: "About"
     url: /about/
+nav: 
+  - title: "Blog"
+    url: /blog/
