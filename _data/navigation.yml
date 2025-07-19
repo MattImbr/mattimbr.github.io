@@ -14,3 +14,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+# sidebar links
+sidebar:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
